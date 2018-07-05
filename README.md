@@ -7,5 +7,4 @@ Hello.
 Hello
 * Thing1
 * Thing 2
-*Italics
 
